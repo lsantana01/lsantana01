@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Sou Lucas Santana
 
-<!--
-**lsantana01/lsantana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com Infraestrutura
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/lsantna01">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lsantana01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsantana01&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div>
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
